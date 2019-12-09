@@ -2,8 +2,6 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import java.awt.BorderLayout;
 import javax.swing.JOptionPane;
-
-
 import javax.swing.JLabel;
 import javax.swing.SpringLayout;
 import javax.swing.ImageIcon;
@@ -15,8 +13,6 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Random;
 import java.util.Scanner;
-
-
 
 
 public class Game extends JFrame {
